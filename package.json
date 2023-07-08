@@ -1,0 +1,19 @@
+{
+  "name": "coachkeepers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass styles/scss/main.scss styles/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nburd01/coachkeepers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nburd01/coachkeepers/issues"
+  },
+  "homepage": "https://github.com/nburd01/coachkeepers#readme"
+}
